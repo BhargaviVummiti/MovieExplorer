@@ -28,7 +28,7 @@ OMDb API – To fetch real-time movie details
 
 #How to Run:-
 ------------
-Go to the Movie Search App project on GitHub:
+Go to the Movie Search App project on GitHub: https://bhargavivummiti.github.io/MovieExplorer/
 
 Download all the files as a ZIP.
 
